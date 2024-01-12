@@ -58,6 +58,8 @@ b) Instruction Types: 3
 
 
 OPCODE R1 R2 R3 SHAMT
+
+
   4    5  5  5   13
 
 
@@ -65,6 +67,8 @@ OPCODE R1 R2 R3 SHAMT
 
 
 OPCODE R1 R2 IMMEDIATE
+
+
   4    5  5   18
 
 
@@ -72,6 +76,8 @@ OPCODE R1 R2 IMMEDIATE
 
 
  OPCODE ADDRESS
+
+
    4     28
 
 
