@@ -19,16 +19,31 @@ b) Memory Size: 2048 * 32
 
 
 c) Registers: 33
+
+
 • Size: 32 bits
+
+
 • 31 General-Purpose Registers (GPRS)
+
+
 – Names: R1 to R31 • 1 Zero Register
+
+
 – Name: R0
-– Hard-wired value “0” (cannot be overwritten by any instruction). • 1 Program Counter
+
+
+– Hard-wired value “0” (cannot be overwritten by any instruction).
+ • 1 Program Counter
+
+
 – Name: PC
-– A program counter is a register in a computer processor that contains the address (loca-
-tion) of the instruction being executed at the current time.
-– As each instruction gets fetched, the program counter is incremented to point to the next
-instruction to be executed.
+
+
+– A program counter is a register in a computer processor that contains the address (location) of the instruction being executed at the current time.
+
+
+– As each instruction gets fetched, the program counter is incremented to point to the next instruction to be executed.
 
 # 1.2 Instruction Set Architecture
 
